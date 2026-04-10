@@ -56,3 +56,6 @@ dkms.conf
 
 # Project-specific ignored paths
 G18_Project2_1/bin/
+
+# Editors
+.vscode/
